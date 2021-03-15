@@ -1,3 +1,6 @@
+# Python Web post
+#
+#   SeveruS 3/15/2021
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
